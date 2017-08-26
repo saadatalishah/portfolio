@@ -1,0 +1,33 @@
+body{
+    border: 5px solid #112233;
+    margin-left:50px;
+    background-color: lightblue;
+    font-size: 20px;
+
+}
+/*input{
+    margin: 0px 0px 50px 0px;
+}*/
+img{
+    display: inline;
+}
+/*#info{
+    display: inline-block;
+}*/
+.div{
+    display: inline-block;
+    margin-left: 400px; 
+    }
+.table{
+    width: 750px;
+}
+.skills{
+     display: inline-block;
+    margin-left: 30px; 
+}
+/*li{
+    margin: 0px 0px 50px 0px;
+}*/
+.head{
+    margin-left: -30px;
+}
